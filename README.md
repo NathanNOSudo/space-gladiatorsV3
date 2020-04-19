@@ -46,6 +46,7 @@ To open all project files from terminal using VSCode just tpye and enter:
 ```
 $ code .
 ```
+![spaceGladiatorscreenshot](https://user-images.githubusercontent.com/49554888/79681607-30870080-81e1-11ea-86d6-b388d6e551b3.png)
 
 I suggest LiveServer extension on VSCode to open game while customizing the 
 files so you can monitor the changes. Once you have LiveServer on VSCode just
