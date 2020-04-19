@@ -9,7 +9,6 @@ pix.js! Goal is to create it for all devices. Some of the key take-aways from th
   - [Prerequisites](#Prerequisites)
   - [Installing](#Installing)
   - [CONTROLING THE SHIP](#CONTROLING-THE-SHIP)
-  - [Contributing](#contributing)
   - [Built With](#Built-With)
   - [I TIP MY HAT TO](#I-TIP-MY-HAT-TO)
   - [License](#license)
@@ -23,9 +22,9 @@ Feel free to fork it and tweak it to your likings. This is a basic quick build w
 
 You need preferably the latest version of Chrome, a text editor and an imagination.
 
-   Go here for Chrome: https://www.google.com/chrome/
-   VSCode is my go to: https://code.visualstudio.com/
-   An Imagination is a must. This is only the begining of what you can do with a little research!
+ ####  Go here for Chrome: https://www.google.com/chrome/
+ #### VSCode is my go to: https://code.visualstudio.com/
+ ####  An Imagination is a must. This is only the begining of what you can do with a little research!
 
 ## Installing
 
@@ -40,7 +39,7 @@ In your terminal clone repo to your local machine using git clone:
 (If you want to customize it just open space-gladiatorsV3 in your editor)
 
 Move to your newly cloned repo by entering the following in your terminal:
-    cd space-gladiatorsV3
+   User@YourMachine~/$ cd space-gladiatorsV3
 
 To open all project files from terminal using VSCode just tpye and enter:
     code .
@@ -65,10 +64,6 @@ save your files and reload the browser.
 
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
