@@ -1,4 +1,4 @@
-# space-gladiatorsV3 :alien:
+# :rocket: space-gladiatorsV3 :alien:
 
 This is a real-time multiplayer game created with HTML5 and 
 pix.js! Goal is to create it for all devices. Some of the key take-aways from this projet include learning how to build a complete cross-platform game with HTML5, efficiently use the tools available for HTML5 game development, take the game's performance to the next level and advanced solutions to common HTML5 game development roadblocks.
@@ -33,19 +33,20 @@ ON LINUX/UNIX
 
 
 In your terminal clone repo to your local machine using git clone:
-    ...
-    $ git clone https://github.com/NathanNOSudo/space-gladiatorsV3   
-    ...
-(If you want to customize it just open space-gladiatorsV3 in your editor)
+```
+$ git clone https://github.com/NathanNOSudo/space-gladiatorsV3   
+```
+*If you want to customize it first then just open space-gladiatorsV3 in your editor*
 
 Move to your newly cloned repo by entering the following in your terminal:
-  ...
-  $ cd space-gladiatorsV3
-  ...
+```
+$ cd space-gladiatorsV3
+```
 To open all project files from terminal using VSCode just tpye and enter:
-   ...
-   $ code .
-   ...
+```
+$ code .
+```
+
 I suggest LiveServer extension on VSCode to open game while customizing the 
 files so you can monitor the changes. Once you have LiveServer on VSCode just
 right click on the index.html and select preview in browser!
@@ -73,7 +74,7 @@ This project is licensed under the [Attribution 4.0
 International](LICENSE.md) Creative Commons License - see the
 [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgments :checkered_flag:
 
   - Another Hat tip to Jame Simpson Founder of Goldfire Studios
   - VSCode for the free month of pluralsight lol
