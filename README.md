@@ -1,18 +1,18 @@
-# space-gladiatorsV3
+# space-gladiatorsV3 :alien:
 
 This is a real-time multiplayer game created with HTML5 and 
 pix.js! Goal is to create it for all devices. Some of the key take-aways from this projet include learning how to build a complete cross-platform game with HTML5, efficiently use the tools available for HTML5 game development, take the game's performance to the next level and advanced solutions to common HTML5 game development roadblocks.
 
 ## Summary
 
-  - [Getting Started](#getting-started)
-  - [Prerequisites](#Prerequisites)
-  - [Installing](#Installing)
-  - [CONTROLING THE SHIP](#CONTROLING-THE-SHIP)
-  - [Built With](#Built-With)
-  - [I TIP MY HAT TO](#I-TIP-MY-HAT-TO)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+ :star: - [Getting Started](#getting-started)
+ :star: - [Prerequisites](#Prerequisites)
+ :star: - [Installing](#Installing)
+ :star: - [CONTROLING THE SHIP](#CONTROLING-THE-SHIP)
+ :star: - [Built With](#Built-With)
+ :star: - [I TIP MY HAT TO](#I-TIP-MY-HAT-TO)
+ :star: - [License](#license)
+ :star: - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -33,17 +33,19 @@ ON LINUX/UNIX
 
 
 In your terminal clone repo to your local machine using git clone:
-
-    git clone https://github.com/NathanNOSudo/space-gladiatorsV3   
-    
+    ...
+    $ git clone https://github.com/NathanNOSudo/space-gladiatorsV3   
+    ...
 (If you want to customize it just open space-gladiatorsV3 in your editor)
 
 Move to your newly cloned repo by entering the following in your terminal:
-   User@YourMachine~/$ cd space-gladiatorsV3
-
+  ...
+  $ cd space-gladiatorsV3
+  ...
 To open all project files from terminal using VSCode just tpye and enter:
-    code .
-
+   ...
+   $ code .
+   ...
 I suggest LiveServer extension on VSCode to open game while customizing the 
 files so you can monitor the changes. Once you have LiveServer on VSCode just
 right click on the index.html and select preview in browser!
